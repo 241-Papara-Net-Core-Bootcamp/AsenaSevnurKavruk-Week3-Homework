@@ -1,0 +1,15 @@
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\bin\Debug\net5.0\PaparaRepositoryPattern.Domain.deps.json
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\bin\Debug\net5.0\PaparaRepositoryPattern.Domain.runtimeconfig.json
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\bin\Debug\net5.0\PaparaRepositoryPattern.Domain.runtimeconfig.dev.json
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\bin\Debug\net5.0\PaparaRepositoryPattern.Domain.dll
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\bin\Debug\net5.0\PaparaRepositoryPattern.Domain.pdb
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\PaparaRepositoryPattern.Domain.csproj.AssemblyReference.cache
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\PaparaRepositoryPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\PaparaRepositoryPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\PaparaRepositoryPattern.Domain.AssemblyInfo.cs
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\PaparaRepositoryPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\PaparaRepositoryPattern.Domain.dll
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\refint\PaparaRepositoryPattern.Domain.dll
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\PaparaRepositoryPattern.Domain.pdb
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\PaparaRepositoryPattern.Domain.genruntimeconfig.cache
+C:\Users\Asena Sevnur Ulun\Desktop\AsenaSevnurKavruk-Week3-Homework\PaparaRepositoryPattern\PaparaRepositoryPattern.Domain\obj\Debug\net5.0\ref\PaparaRepositoryPattern.Domain.dll
